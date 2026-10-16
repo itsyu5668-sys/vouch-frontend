@@ -1,0 +1,7 @@
+{
+  "name": "Vouch — Referral Infrastructure for Micro-SaaS",
+  "description": "Dropbox-style referral tracking, attribution, and reward automation for indie founders and micro-SaaS builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
